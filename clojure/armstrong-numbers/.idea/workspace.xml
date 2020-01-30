@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/dev/personal/boottest" value="1455850347000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-apprentice" value="2992456859000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop" value="10176738400000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/builder" value="1453609773000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/builder-excercise" value="1453691340000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/command" value="1452455580000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/command-excercise" value="1453875279000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/decorator" value="1453878974000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/init-proj" value="1452446162000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/observer-chat" value="14542233172000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/sample-javax-java" value="2904745074000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/strategy" value="1453878127000" />
+        <entry key="$USER_HOME$/dev/personal/design-patterns-workshop/strategy-exercise" value="1453921645000" />
+        <entry key="$USER_HOME$/dev/personal/gs-spring-boot/initial" value="1460327005000" />
+        <entry key="$USER_HOME$/dev/personal/hystrix-workshop" value="2945513608000" />
+        <entry key="$USER_HOME$/dev/personal/pair-second-chance" value="1455664324000" />
+        <entry key="$USER_HOME$/dev/personal/spring-batch-workshop" value="8752198554000" />
+        <entry key="$USER_HOME$/dev/repos/dev" value="28258969253000" />
+        <entry key="$USER_HOME$/dev/repos161/dev" value="18966285108000" />
+        <entry key="$USER_HOME$/dev/repos162/dev" value="18968026120000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/dev/rooam-command-center" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/rooam-dw/dw.test" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/rooam-dw/rooam-data-web" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/rooam-dw/rooam-etl-runtime-web" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X7ZsQPgWHfTp0v6JrVcLkVSB4v" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

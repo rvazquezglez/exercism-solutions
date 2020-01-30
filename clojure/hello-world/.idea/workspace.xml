@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="904b654e-f1d5-446b-a35e-b9003e53e9f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X5xYaLlueRyrhyBoBWWTBenAHt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReplState" timestamp="1580353364785">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="RunManager" selected="Clojure Application.hello-world-test">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="REPL" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="hello-world" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello-world-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="hello-world" />
+      <setting name="path" value="$PROJECT_DIR$/test/hello_world_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Clojure REPL.REPL" />
+      <item itemvalue="Clojure Application.hello-world-test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.hello-world-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="904b654e-f1d5-446b-a35e-b9003e53e9f8" name="Default Changelist" comment="" />
+      <created>1580349804707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580349804707</updated>
+      <workItem from="1580349809840" duration="3075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="127" width="1135" height="953" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580350759581">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="424" y="127" width="1135" height="953" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1580350759581" />
+    <state x="192" y="118" key="DiffContextDialog" timestamp="1580351176707">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="192" y="118" key="DiffContextDialog/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1580351176707" />
+    <state width="1880" height="290" key="GridCell.Tab.0.bottom" timestamp="1580353364764">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1880" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1580353364764" />
+    <state width="1880" height="290" key="GridCell.Tab.0.center" timestamp="1580353364763">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1880" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1580353364763" />
+    <state width="1880" height="290" key="GridCell.Tab.0.left" timestamp="1580353364762">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1880" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1580353364762" />
+    <state width="1880" height="290" key="GridCell.Tab.0.right" timestamp="1580353364763">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1880" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1580353364763" />
+    <state x="582" y="256" key="search.everywhere.popup" timestamp="1580352912044">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="582" y="256" key="search.everywhere.popup/0.23.1920.1057/1920.303.1280.777@0.23.1920.1057" timestamp="1580352912044" />
+  </component>
+</project>
